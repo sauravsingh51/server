@@ -1,2 +1,2 @@
 # server
- Spring cloud config server
+ Spring Boot cloud config server
